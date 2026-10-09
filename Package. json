@@ -1,0 +1,14 @@
+{
+  "name": "panther-chat",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "start": "expo start"
+  },
+  "dependencies": {
+    "expo": "~53.0.0",
+    "react": "19.0.0",
+    "react-native": "0.81.0",
+    "expo-status-bar": "~2.0.0"
+  }
+}
